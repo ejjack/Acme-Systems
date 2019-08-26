@@ -6,6 +6,11 @@ public class HelloWorld {
 		System.out.println(Msg);
 	}
 
+	public static void whatFor() {
+		String Msg = "What For!";
+		System.out.println(Msg);
+	}
+
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
